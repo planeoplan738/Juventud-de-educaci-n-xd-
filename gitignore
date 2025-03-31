@@ -1,0 +1,14 @@
+
+# Ignorar archivos de sistema de macOS
+.DS_Store
+
+# Ignorar archivos de configuración de editores comunes
+.vscode/
+.idea/
+
+# Ignorar archivos temporales
+*.log
+*.tmp
+
+# Ignorar archivos generados por editores de texto
+*.swp
